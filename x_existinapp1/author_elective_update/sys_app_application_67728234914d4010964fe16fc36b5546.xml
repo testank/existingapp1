@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>testtable</name>
+        <order>100</order>
+        <roles>x_existinapp1.testtable_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 21:26:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67728234914d4010964fe16fc36b5546</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testtable</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="existinapp1" source="x_existinapp1">6af142f0914d4010964fe16fc36b5561</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="existinapp1">6af142f0914d4010964fe16fc36b5561</sys_scope>
+        <sys_update_name>sys_app_application_67728234914d4010964fe16fc36b5546</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 21:26:49</sys_updated_on>
+        <title>testtable</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="existinapp1">6af142f0914d4010964fe16fc36b5561</application>
+        <file_path/>
+        <instance_id>pQtDinRoJPg9IvJTNhj9VxhV1ZZivGFO</instance_id>
+        <instance_name>testinstance-358301ab10300010964fdecad63ab1eb</instance_name>
+        <name>sys_app_application_67728234914d4010964fe16fc36b5546</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>testtable</name><order>100</order><roles>x_existinapp1.testtable_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-08 21:26:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>67728234914d4010964fe16fc36b5546</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testtable</sys_name><sys_overrides/><sys_package display_value="existinapp1" source="x_existinapp1">6af142f0914d4010964fe16fc36b5561</sys_package><sys_policy/><sys_scope display_value="existinapp1">6af142f0914d4010964fe16fc36b5561</sys_scope><sys_update_name>sys_app_application_67728234914d4010964fe16fc36b5546</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-08 21:26:49</sys_updated_on><title>testtable</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1903968697</payload_hash>
+        <record_name>testtable</record_name>
+        <reverted_from/>
+        <source>eef10ef0914d4010964fe16fc36b5513</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 21:26:49</sys_created_on>
+        <sys_id>e3728234914d4010964fe16fc36b5548</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e4ce99fd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 21:26:49</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>2f7282345e4d401085e47cc0820aba47</update_guid>
+        <update_guid_history>2f7282345e4d401085e47cc0820aba47:1903968697</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="testtable">ace2c634914d4010964fe16fc36b5506</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-08 21:28:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0ce16187006a46508e21d6075be4f7e4</sys_id>
+        <sys_metadata>67728234914d4010964fe16fc36b5546</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testtable</sys_name>
+        <sys_package display_value="existinapp1" source="x_existinapp1">6af142f0914d4010964fe16fc36b5561</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="existinapp1">6af142f0914d4010964fe16fc36b5561</sys_scope>
+        <sys_scope_delete display_value="">6f9c2b982b294902804b28f218da5544</sys_scope_delete>
+        <sys_update_name>sys_app_application_67728234914d4010964fe16fc36b5546</sys_update_name>
+        <sys_update_version display_value="sys_app_application_67728234914d4010964fe16fc36b5546">e3728234914d4010964fe16fc36b5548</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-08 21:28:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
