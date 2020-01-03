@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-08 21:26:50</sys_created_on>
-        <sys_id>f3728234914d4010964fe16fc36b557a</sys_id>
+        <sys_id>2cc7ea7e848a0010f87708cee913335e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_existinapp1_testtable</sys_name>
         <sys_package display_value="existinapp1" source="x_existinapp1">6af142f0914d4010964fe16fc36b5561</sys_package>
         <sys_policy/>
         <sys_scope display_value="existinapp1">6af142f0914d4010964fe16fc36b5561</sys_scope>
-        <sys_update_name>sys_dictionary_x_existinapp1_testtable_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_existinapp1_testtable_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-08 21:26:50</sys_updated_on>
+        <sys_updated_on>2020-01-03 22:20:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

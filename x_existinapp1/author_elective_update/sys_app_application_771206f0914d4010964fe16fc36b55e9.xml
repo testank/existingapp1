@@ -52,7 +52,7 @@
         <update_guid_history>371206f0794d40105b0ba1780e7a1beb:-342239581</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="existinapp1">b2138634914d4010964fe16fc36b55f4</sys_audit_delete>
+        <sys_audit_delete display_value="">b2138634914d4010964fe16fc36b55f4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-08 21:29:30</sys_created_on>
