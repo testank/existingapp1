@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_testapp_servicecatalog" name="sn_dd_testapp_servicecatalog">c65c7f3ce16e0010f8778ec126eead0c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 19:53:23</sys_created_on>
+        <sys_id>8a5c7f3ce16e0010f8778ec126eead0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c65c7f3ce16e0010f8778ec126eead0c</sys_name>
+        <sys_package display_value="testApp" source="x_testapp">421cf33ce16e0010f8778ec126eead29</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testApp">421cf33ce16e0010f8778ec126eead29</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8a5c7f3ce16e0010f8778ec126eead0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 19:53:23</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
